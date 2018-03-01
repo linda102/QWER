@@ -1,0 +1,51 @@
+
+name="[HUB] QWER 2 FULL V9.4.8 PL"
+url="https://kodihub.net/xxwly"
+img="https://github.com/meserak86/QWER/raw/master/icon.png"
+fanart="https://github.com/meserak86/QWER/raw/master/fanart.jpg"
+description="..."
+version="9.4.8"
+
+name="[HUB] QWER 2 FULL OLD SCHOOL V9.4.8 PL"
+url="https://kodihub.net/i4m24"
+img="https://github.com/meserak86/QWER/raw/master/icon.png"
+fanart="https://github.com/meserak86/QWER/raw/master/fanart.jpg"
+description="..."
+version="9.4.8"
+
+name="[HUB] QWER NETFLIX V9.4.8 PL"
+url="https://kodihub.net/aiooo"
+img="https://github.com/meserak86/QWER/raw/master/icon.png"
+fanart="https://github.com/meserak86/QWER/raw/master/fanart.jpg"
+description="..."
+version="9.4.8"
+
+name="[HUB] QWER 2 FULL V9.4.6 ENG"
+url="https://kodihub.net/s87g3"
+img="https://github.com/meserak86/QWER/raw/master/icon.png"
+fanart="https://github.com/meserak86/QWER/raw/master/fanart.jpg"
+description="..."
+version="9.4.6"
+
+name="[BUILD] PACZKA "
+url="https://kodihub.net/oern5"
+img="https://github.com/meserak86/QWER/raw/master/icon.png"
+fanart="https://github.com/meserak86/QWER/raw/master/fanart.jpg"
+description="POLSKIE MOTYWY"
+version="9.4.2"
+
+name="METALLIQ + EXTENDED INFO MOD WORKING PATCH 25.02.18"
+url="https://kodihub.net/sewuq"
+img="https://github.com/meserak86/QWER/raw/master/icon.png"
+fanart="https://github.com/meserak86/QWER/raw/master/fanart.jpg"
+description="     "
+version="1.0.1"
+
+name="     "
+url="https://kodihub.net/h3kdf"
+img="https://github.com/meserak86/QWER/raw/master/icon.png"
+fanart="https://github.com/meserak86/QWER/raw/master/fanart.jpg"
+description="     "
+version="1.0.1"
+
+

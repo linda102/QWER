@@ -1,4 +1,4 @@
-﻿name="QWER 2 FUL"
+﻿name="QWER 2 FULL"
 version="9.4.8"
 url="https://kodihub.net/xxwly"
 gui=""

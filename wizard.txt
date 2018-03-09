@@ -1,5 +1,5 @@
 ﻿name="QWER 2 FULL"
-version="9.4.8"
+version="9.4.9"
 url="https://kodihub.net/xxwly"
 gui=""
 kodi="17.6"

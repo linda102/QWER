@@ -13,7 +13,7 @@ counter="1"
 
 ﻿name="QWER 2 E2"
 version="9.4.9"
-url="https://kodihub.net/8jwz"
+url="https://kodihub.net/8jwzt"
 gui=""
 kodi="17.6"
 theme="http://"

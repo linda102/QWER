@@ -90,7 +90,7 @@ adult="no"
 description=""
 counter="1"
 
-name="DARIA [CHERRY]"
+name="DARIA CHERRY"
 version="1.0.2"
 url="http://qwer.cherrytv.webd.pl/BUILDY/DARIA1.zip"
 gui=""

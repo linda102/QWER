@@ -41,7 +41,7 @@ description=""
 counter="1"
 
 
-name="QWER 2 OLDSCHOOL E2 HUB"
+name="QWER 2 OLDSCHOOL E2 CHERRY"
 version="9.4.9"
 url="http://qwer.cherrytv.webd.pl/BUILDY/QWER2OLDSCHOOLE2.zip"
 gui=""

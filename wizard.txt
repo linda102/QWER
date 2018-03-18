@@ -11,6 +11,22 @@ adult="no"
 description=""
 counter="1"
 
+name="QWER 2 FULL E2 CHERRY"
+version="9.4.9"
+url="http://qwer.cherrytv.webd.pl/BUILDY/QWER2FULLE2.zip"
+gui=""
+kodi="17.6"
+theme="http://"
+icon="http://"
+fanart="http://"
+preview="http://"
+adult="no"
+description=""
+counter="1"
+
+
+
+
 name="QWER 2 OLDSCHOOL E2 HUB"
 version="9.4.9"
 url="https://kodihub.net/d7at6"
@@ -25,7 +41,18 @@ description=""
 counter="1"
 
 
-
+name="QWER 2 OLDSCHOOL E2 HUB"
+version="9.4.9"
+url="http://qwer.cherrytv.webd.pl/BUILDY/QWER2OLDSCHOOLE2.zip"
+gui=""
+kodi="17.6"
+theme="http://"
+icon="http://"
+fanart="http://"
+preview="http://"
+adult="no"
+description=""
+counter="1"
 
 
 name="QWER 2 FULL HUB"

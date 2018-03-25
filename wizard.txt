@@ -1,4 +1,17 @@
 
+name="QWER 3 FULL SILVO + E2 CHERRY"
+version="9.5.0"
+url="http://qwer.cherrytv.webd.pl/BUILDY/QWER2FULLSILVOE2.zip"
+gui=""
+kodi="17.6"
+theme="http://"
+icon="http://"
+fanart="http://"
+preview="http://"
+adult="no"
+description=""
+counter="1"
+
 name="QWER 3 FULL E2 HUB"
 version="9.5.0"
 url="https://kodihub.net/xxwly"
@@ -13,18 +26,7 @@ description=""
 counter="1"
 QWER2FULLSILVOE2.zip
 
-name="QWER 3 FULL SILVO + E2 CHERRY"
-version="9.5.0"
-url="http://qwer.cherrytv.webd.pl/BUILDY/QWER2FULLSILVOE2.zip"
-gui=""
-kodi="17.6"
-theme="http://"
-icon="http://"
-fanart="http://"
-preview="http://"
-adult="no"
-description=""
-counter="1"
+
 
 name="DARIA HUB"
 version="1.0.2"

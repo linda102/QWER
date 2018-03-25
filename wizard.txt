@@ -13,7 +13,7 @@ description=""
 counter="1"
 QWER2FULLSILVOE2.zip
 
-name="QWER 3 FULL SILVO + E2"
+name="QWER 3 FULL SILVO + E2 CHERRY"
 version="9.5.0"
 url="http://qwer.cherrytv.webd.pl/BUILDY/QWER2FULLSILVOE2.zip"
 gui=""

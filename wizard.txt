@@ -1,6 +1,6 @@
 
 name="QWER 3 FULL E2 HUB"
-version="9.4.9"
+version="9.5.0"
 url="https://kodihub.net/xxwly"
 gui=""
 kodi="17.6"

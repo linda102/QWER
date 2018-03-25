@@ -1,5 +1,5 @@
 
-name="QWER 3 FULL SILVO + E2 CHERRY"
+name="QWER 3 FULL SILVO E2 CHERRY"
 version="9.5.0"
 url="http://qwer.cherrytv.webd.pl/BUILDY/QWER2FULLSILVOE2.zip"
 gui=""

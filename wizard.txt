@@ -11,7 +11,7 @@ adult="no"
 description=""
 counter="1"
 
-name="QWER 3 FULL SE CHERRY"
+name="QWER 3 FULL SE LEILA CHERRY"
 version="9.5.0"
 url="http://qwer.cherrytv.webd.pl/BUILDY/Q2FULLSE218.zip"
 gui=""

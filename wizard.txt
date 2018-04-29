@@ -67,7 +67,7 @@ description=""
 counter="1"
 
 name="ONE LEILA 64 BIT"
-version="9.5.0"
+version="9.5.1"
 url="http://qwer.cherrytv.webd.pl/BUILDY/ONE18.zip"
 gui=""
 kodi="18.0"

@@ -1,6 +1,6 @@
 name="QWER 3 FULL 18 "
 version="9.5.2"
-url="http://qwer.cherrytv.webd.pl/BUILDY/18_Q_ FULL_9_5_2.zip"
+url="http://qwer.cherrytv.webd.pl/BUILDY/18_Q_FULL_9_5_2.zip"
 gui=""
 kodi="18.0"
 theme="http://"

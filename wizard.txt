@@ -43,6 +43,19 @@ description=""
 counter="1"
 
 
+name="ONEPVR"
+version="9.5.2"
+url="http://qwer.cherrytv.webd.pl/BUILDY/ONEPVR.zip"
+gui=""
+kodi="17.6"
+theme="http://"
+icon="ttp://qwer.cherrytv.webd.pl/QWERX/qwer.png"
+fanart="http://"
+preview="http://"
+adult="no"
+description=""
+counter="1"
+ONEPVR
 
 
 

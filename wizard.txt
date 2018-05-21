@@ -29,9 +29,9 @@ counter="1"
 
 
 
-name="ONEPVR"
+name="QWER 3 PVR 17"
 version="9.5.2"
-url="http://qwer.cherrytv.webd.pl/BUILDY/ONEPVR.zip"
+url="http://qwer.cherrytv.webd.pl/BUILDY/17_QPVR.zip"
 gui=""
 kodi="17.6"
 theme="http://"

@@ -43,6 +43,20 @@ description=""
 counter="1"
 ONEPVR
 
+name="QWER 3 PVR 18"
+version="9.5.2"
+url="http://qwer.cherrytv.webd.pl/BUILDY/18_QPVR.zip"
+gui=""
+kodi="18.0"
+theme="http://"
+icon="ttp://qwer.cherrytv.webd.pl/QWERX/qwer.png"
+fanart="http://"
+preview="http://"
+adult="no"
+description=""
+counter="1"
+ONEPVR
+
 
 
 

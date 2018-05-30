@@ -29,7 +29,7 @@ counter="1"
 
 
 
-name="QWER 3 PVR 17"
+name="QWER 3 SIMPLE 17"
 version="9.5.2"
 url="http://qwer.cherrytv.webd.pl/BUILDY/17_QPVR.zip"
 gui=""
@@ -43,7 +43,7 @@ description=""
 counter="1"
 ONEPVR
 
-name="QWER 3 PVR 18"
+name="QWER 3 SIMPLE 18"
 version="9.5.2"
 url="http://qwer.cherrytv.webd.pl/BUILDY/18_QPVR.zip"
 gui=""

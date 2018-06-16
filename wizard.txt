@@ -1,5 +1,5 @@
 name="QWER 3 FULL 18 "
-version="9.5.3"
+version="9.5.4"
 url="http://qwer.cherrytv.webd.pl/BUILDY/18_QFULL.zip"
 gui=""
 kodi="18.0"
@@ -14,7 +14,7 @@ counter="1"
 
 
 name="QWER 3 FULL 17 "
-version="9.5.3"
+version="9.5.4"
 url="http://qwer.cherrytv.webd.pl/BUILDY/17_QFULL.zip"
 gui=""
 kodi="17.6"
@@ -30,7 +30,7 @@ counter="1"
 
 
 name="QWER 3 SIMPLE 17"
-version="9.5.3"
+version="9.5.4"
 url="http://qwer.cherrytv.webd.pl/BUILDY/17_QPVR.zip"
 gui=""
 kodi="17.6"
@@ -44,7 +44,7 @@ counter="1"
 ONEPVR
 
 name="QWER 3 SIMPLE 18"
-version="9.5.3"
+version="9.5.4"
 url="http://qwer.cherrytv.webd.pl/BUILDY/18_QPVR.zip"
 gui=""
 kodi="18.0"

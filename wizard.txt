@@ -30,7 +30,7 @@ counter="1"
 
 
 name="QWER 3 SIMPLE 17"
-version="9.5.4"
+version="9.5.5"
 url="http://qwer.cherrytv.webd.pl/BUILDY/17_QPVR.zip"
 gui=""
 kodi="17.6"

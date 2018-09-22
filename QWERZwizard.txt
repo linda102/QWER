@@ -1,6 +1,13 @@
 
-name="0000"
-url="https://www.dropbox.com/s/i31lhoy8vzgkgey/18_PRIVATE.zip?dl=1"
+name="17"
+url=""
+img="https://github.com/meserak86/QWER/raw/master/icon.png"
+fanart="https://github.com/meserak86/QWER/raw/master/fanart.jpg"
+description="     "
+version="1.0.1"
+
+name="18"
+url=""
 img="https://github.com/meserak86/QWER/raw/master/icon.png"
 fanart="https://github.com/meserak86/QWER/raw/master/fanart.jpg"
 description="     "
